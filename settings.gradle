@@ -1,0 +1,4 @@
+rootProject.name = 'Assignment3'
+include 'src'
+include 'lib'
+
